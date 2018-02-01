@@ -6,7 +6,9 @@ Example text file:
 {
 
 Januaray 2018 Expenses
+
 Bank account: $1234.56
+
 Credit Card Debt: $1234.56
 
 1/02/2018

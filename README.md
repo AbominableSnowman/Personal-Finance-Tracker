@@ -13,6 +13,7 @@ Credit Card Debt: $1234.56
 
 1/02/2018
   - $34.56 (groceries) - trip to Meijer
+  
 1/04/2018
   - $23.45 (cell) - bill
 ...

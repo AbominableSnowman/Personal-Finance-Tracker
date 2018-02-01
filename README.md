@@ -16,6 +16,7 @@ Credit Card Debt: $1234.56
   
 1/04/2018
   - $23.45 (cell) - bill
+  
 ...
 
 }
